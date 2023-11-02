@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 
-- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi, Wordpress, SEO **
+- 💬 Ask me about ** NEXT.JS, HTML, REACT.JS, PYTHON, CSS, TAILWIND, JAVASCRIPT **
 
-- 📫 How to reach me **peterkimanzikithumba@gmail.com**
+- 📫 How to reach me **mohammadrezaiisahand@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
