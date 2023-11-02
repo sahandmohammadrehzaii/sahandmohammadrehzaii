@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Chatroom Website](https://chatroomdamaris.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
-
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
 
 - 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi, Wordpress, SEO **
 
