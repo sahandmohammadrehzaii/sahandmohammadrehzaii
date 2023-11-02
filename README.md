@@ -49,4 +49,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandmohammadrehzaii&layout=compact)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahandmohammadrezaii)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=sahandmohammadrehzaii&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack)
+
