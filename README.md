@@ -1,4 +1,4 @@
-[sahandmohammadrehzaii](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[jolly]: https://github-readme-stats.vercel.app/api?username=sahandmohammadrehzaii&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly
 
 <h1 align="center">
   Hi 👋, I'm sahandmohamamdrezaii
