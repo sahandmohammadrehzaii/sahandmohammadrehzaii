@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 <h1 align="center">Hi 👋, I'm sahandmohamamdrezaii</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from IRAN</h3>
 <img align="right" alt="Coding" width="400" src="https://sahand.storage.iran.liara.space/picture-3/rc2xyhpx49m71.gif"/>
