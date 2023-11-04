@@ -5,10 +5,8 @@
   A REACT.JS AND NEXT.JS developer from IRAN
 </h3>
 <img align="right" alt="Coding" width="350" src="https://sahand.storage.iran.liara.space/picture-3/rc2xyhpx49m71.gif"/>
-<img align="right" alt="Coding" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"/>
 
-
-
+<img align="left" alt="Coding" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue-green"/>
 
 <br>
 <br>
