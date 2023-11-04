@@ -13,17 +13,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 <img align="right" alt="Coding" width="350" heiht="500px" src="https://sahand.storage.iran.liara.space/picture-4/website%20poster.png"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandmohammadrehzaii&layout=compact)
