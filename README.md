@@ -6,8 +6,6 @@
 </h3>
 <img align="right" alt="Coding" width="350" src="https://sahand.storage.iran.liara.space/picture-3/rc2xyhpx49m71.gif"/>
 
-<img align="left" alt="Coding" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=sahandmohammadrehzaii"/>
-
 <br>
 <br>
 <br>
@@ -20,8 +18,6 @@
 <br>
 
 <img align="right" alt="Coding" width="350" heiht="500px" src="https://sahand.storage.iran.liara.space/picture-4/website%20poster.png"/>
-
-#
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandmohammadrehzaii&layout=compact)
 
