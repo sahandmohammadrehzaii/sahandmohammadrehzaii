@@ -30,16 +30,13 @@
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
+
+
+
+
 
 <img align="right" alt="Coding" width="350" heiht="500px" src="https://sahand.storage.iran.liara.space/picture-4/website%20poster.png"/>
 
