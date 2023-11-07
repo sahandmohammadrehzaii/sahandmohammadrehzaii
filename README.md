@@ -38,6 +38,6 @@
 
 <p>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahandmohammadrehzaii&" al"haezi>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahandmohammadrehzaii&" al"hazi>
 
 </p>
